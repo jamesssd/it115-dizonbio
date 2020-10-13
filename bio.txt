@@ -9,3 +9,8 @@ Identify who my audience is:
 Keep it short and concise
 
 Hello, my name is James Dizon, pronouns are he/him/his. 
+
+
+Links:
+Here is a link of my portfolio: https://jamesssd.github.io/portfolio/ 
+Here is a link of my LinkedIn Page: https://www.linkedin.com/in/jamescdizon/
